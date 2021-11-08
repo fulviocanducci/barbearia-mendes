@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #32CD99;
+}
+
+.fundo {
+    background-image: url(retro.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 70px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+listas. {
+    background-image: 10.jpg
+}
+
+.listas {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-size: 70px;
+    padding-left: 48px;
+    padding-right: 48px;
+    list-style-type: none;
+    background-image: url(36.jpg);
+    background-position: left;
+    background-attachment: fixed;
+    font-size: 40px;
+}
+
+.fotos {
+    color: white;
+    font-size: 40px;
+}
